@@ -1,0 +1,8 @@
+C:\Hello.TJ\Assignment2\bin\Debug\netcoreapp1.1\Assignment2.deps.json
+C:\Hello.TJ\Assignment2\bin\Debug\netcoreapp1.1\Assignment2.runtimeconfig.json
+C:\Hello.TJ\Assignment2\bin\Debug\netcoreapp1.1\Assignment2.runtimeconfig.dev.json
+C:\Hello.TJ\Assignment2\bin\Debug\netcoreapp1.1\Assignment2.dll
+C:\Hello.TJ\Assignment2\bin\Debug\netcoreapp1.1\Assignment2.pdb
+C:\Hello.TJ\Assignment2\obj\Debug\netcoreapp1.1\Assignment2.AssemblyInfo.cs
+C:\Hello.TJ\Assignment2\obj\Debug\netcoreapp1.1\Assignment2.dll
+C:\Hello.TJ\Assignment2\obj\Debug\netcoreapp1.1\Assignment2.pdb

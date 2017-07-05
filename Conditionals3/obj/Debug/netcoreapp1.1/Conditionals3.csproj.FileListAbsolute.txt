@@ -1,0 +1,8 @@
+C:\Hello.TJ\Conditionals3\bin\Debug\netcoreapp1.1\Conditionals3.deps.json
+C:\Hello.TJ\Conditionals3\bin\Debug\netcoreapp1.1\Conditionals3.runtimeconfig.json
+C:\Hello.TJ\Conditionals3\bin\Debug\netcoreapp1.1\Conditionals3.runtimeconfig.dev.json
+C:\Hello.TJ\Conditionals3\bin\Debug\netcoreapp1.1\Conditionals3.dll
+C:\Hello.TJ\Conditionals3\bin\Debug\netcoreapp1.1\Conditionals3.pdb
+C:\Hello.TJ\Conditionals3\obj\Debug\netcoreapp1.1\Conditionals3.AssemblyInfo.cs
+C:\Hello.TJ\Conditionals3\obj\Debug\netcoreapp1.1\Conditionals3.dll
+C:\Hello.TJ\Conditionals3\obj\Debug\netcoreapp1.1\Conditionals3.pdb

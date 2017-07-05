@@ -1,0 +1,8 @@
+c:\Hello.TJ\Calc Function\bin\Debug\netcoreapp1.1\Calc Function.deps.json
+c:\Hello.TJ\Calc Function\bin\Debug\netcoreapp1.1\Calc Function.runtimeconfig.json
+c:\Hello.TJ\Calc Function\bin\Debug\netcoreapp1.1\Calc Function.runtimeconfig.dev.json
+c:\Hello.TJ\Calc Function\bin\Debug\netcoreapp1.1\Calc Function.dll
+c:\Hello.TJ\Calc Function\bin\Debug\netcoreapp1.1\Calc Function.pdb
+c:\Hello.TJ\Calc Function\obj\Debug\netcoreapp1.1\Calc Function.AssemblyInfo.cs
+c:\Hello.TJ\Calc Function\obj\Debug\netcoreapp1.1\Calc Function.dll
+c:\Hello.TJ\Calc Function\obj\Debug\netcoreapp1.1\Calc Function.pdb

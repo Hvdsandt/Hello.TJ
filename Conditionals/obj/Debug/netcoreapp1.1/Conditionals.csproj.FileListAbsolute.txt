@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\bin\Debug\netcoreapp1.1\Conditionals.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\bin\Debug\netcoreapp1.1\Conditionals.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\bin\Debug\netcoreapp1.1\Conditionals.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\bin\Debug\netcoreapp1.1\Conditionals.dll
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\bin\Debug\netcoreapp1.1\Conditionals.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\obj\Debug\netcoreapp1.1\Conditionals.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\obj\Debug\netcoreapp1.1\Conditionals.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\obj\Debug\netcoreapp1.1\Conditionals.dll
+c:\users\admin\documents\visual studio 2017\Projects\Conditionals\Conditionals\obj\Debug\netcoreapp1.1\Conditionals.pdb

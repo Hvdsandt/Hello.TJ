@@ -1,0 +1,8 @@
+C:\Hello.TJ\SterKinikor\bin\Debug\netcoreapp1.1\SterKinikor.deps.json
+C:\Hello.TJ\SterKinikor\bin\Debug\netcoreapp1.1\SterKinikor.runtimeconfig.json
+C:\Hello.TJ\SterKinikor\bin\Debug\netcoreapp1.1\SterKinikor.runtimeconfig.dev.json
+C:\Hello.TJ\SterKinikor\obj\Debug\netcoreapp1.1\SterKinikor.AssemblyInfo.cs
+C:\Hello.TJ\SterKinikor\bin\Debug\netcoreapp1.1\SterKinikor.dll
+C:\Hello.TJ\SterKinikor\bin\Debug\netcoreapp1.1\SterKinikor.pdb
+C:\Hello.TJ\SterKinikor\obj\Debug\netcoreapp1.1\SterKinikor.dll
+C:\Hello.TJ\SterKinikor\obj\Debug\netcoreapp1.1\SterKinikor.pdb

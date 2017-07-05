@@ -1,0 +1,8 @@
+C:\Hello.TJ\ReadWriteFiles\bin\Debug\netcoreapp1.1\ReadWriteFiles.deps.json
+C:\Hello.TJ\ReadWriteFiles\bin\Debug\netcoreapp1.1\ReadWriteFiles.runtimeconfig.json
+C:\Hello.TJ\ReadWriteFiles\bin\Debug\netcoreapp1.1\ReadWriteFiles.runtimeconfig.dev.json
+C:\Hello.TJ\ReadWriteFiles\bin\Debug\netcoreapp1.1\ReadWriteFiles.dll
+C:\Hello.TJ\ReadWriteFiles\bin\Debug\netcoreapp1.1\ReadWriteFiles.pdb
+C:\Hello.TJ\ReadWriteFiles\obj\Debug\netcoreapp1.1\ReadWriteFiles.AssemblyInfo.cs
+C:\Hello.TJ\ReadWriteFiles\obj\Debug\netcoreapp1.1\ReadWriteFiles.dll
+C:\Hello.TJ\ReadWriteFiles\obj\Debug\netcoreapp1.1\ReadWriteFiles.pdb

@@ -1,0 +1,8 @@
+C:\Hello.TJ\SterKinekorV2\bin\Debug\netcoreapp1.1\SterKinekorV2.deps.json
+C:\Hello.TJ\SterKinekorV2\bin\Debug\netcoreapp1.1\SterKinekorV2.runtimeconfig.json
+C:\Hello.TJ\SterKinekorV2\bin\Debug\netcoreapp1.1\SterKinekorV2.runtimeconfig.dev.json
+C:\Hello.TJ\SterKinekorV2\bin\Debug\netcoreapp1.1\SterKinekorV2.dll
+C:\Hello.TJ\SterKinekorV2\bin\Debug\netcoreapp1.1\SterKinekorV2.pdb
+C:\Hello.TJ\SterKinekorV2\obj\Debug\netcoreapp1.1\SterKinekorV2.AssemblyInfo.cs
+C:\Hello.TJ\SterKinekorV2\obj\Debug\netcoreapp1.1\SterKinekorV2.dll
+C:\Hello.TJ\SterKinekorV2\obj\Debug\netcoreapp1.1\SterKinekorV2.pdb

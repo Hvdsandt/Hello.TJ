@@ -1,0 +1,8 @@
+C:\Hello.TJ\Word count\bin\Debug\netcoreapp1.1\Word count.deps.json
+C:\Hello.TJ\Word count\bin\Debug\netcoreapp1.1\Word count.runtimeconfig.json
+C:\Hello.TJ\Word count\bin\Debug\netcoreapp1.1\Word count.runtimeconfig.dev.json
+C:\Hello.TJ\Word count\bin\Debug\netcoreapp1.1\Word count.dll
+C:\Hello.TJ\Word count\bin\Debug\netcoreapp1.1\Word count.pdb
+C:\Hello.TJ\Word count\obj\Debug\netcoreapp1.1\Word count.AssemblyInfo.cs
+C:\Hello.TJ\Word count\obj\Debug\netcoreapp1.1\Word count.dll
+C:\Hello.TJ\Word count\obj\Debug\netcoreapp1.1\Word count.pdb

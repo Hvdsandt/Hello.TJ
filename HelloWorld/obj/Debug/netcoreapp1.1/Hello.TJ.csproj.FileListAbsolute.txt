@@ -1,0 +1,8 @@
+c:\Hello.TJ\bin\Debug\netcoreapp1.1\Hello.TJ.deps.json
+c:\Hello.TJ\bin\Debug\netcoreapp1.1\Hello.TJ.runtimeconfig.json
+c:\Hello.TJ\bin\Debug\netcoreapp1.1\Hello.TJ.runtimeconfig.dev.json
+c:\Hello.TJ\bin\Debug\netcoreapp1.1\Hello.TJ.dll
+c:\Hello.TJ\bin\Debug\netcoreapp1.1\Hello.TJ.pdb
+c:\Hello.TJ\obj\Debug\netcoreapp1.1\Hello.TJ.AssemblyInfo.cs
+c:\Hello.TJ\obj\Debug\netcoreapp1.1\Hello.TJ.dll
+c:\Hello.TJ\obj\Debug\netcoreapp1.1\Hello.TJ.pdb
